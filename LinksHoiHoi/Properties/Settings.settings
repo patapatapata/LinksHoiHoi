@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="LinksHoiHoi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Check" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="Chohuku" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="app1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Illustrator</Value>
+    </Setting>
+    <Setting Name="app2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">InDesign</Value>
+    </Setting>
+    <Setting Name="app3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Photoshop</Value>
+    </Setting>
+    <Setting Name="path1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe Illustrator 2020\Support Files\Contents\Windows\Illustrator.exe</Value>
+    </Setting>
+    <Setting Name="path2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Program Files\Adobe\Adobe InDesign 2020\InDesign.exe</Value>
+    </Setting>
+    <Setting Name="path3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Photoshop.exe</Value>
+    </Setting>
+    <Setting Name="oriPathCheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
