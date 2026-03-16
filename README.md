@@ -1,1 +1,1 @@
-# LinksHoiHoi
+InDesignやIllustrator内のリンクファイルを収集するツール
